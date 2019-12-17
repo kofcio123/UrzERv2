@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "942257799701",
+    "firebase_url": "https://urzer-af5b8.firebaseio.com",
+    "project_id": "urzer-af5b8",
+    "storage_bucket": "urzer-af5b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942257799701:android:6e74e283040057ad76441c",
+        "android_client_info": {
+          "package_name": "com.urzer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942257799701-8emneevsi76gf9u38loi1dt1kvhm9sl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQKalIghxjtEmfk-w9IMlD7uZOpdlAspY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942257799701-8emneevsi76gf9u38loi1dt1kvhm9sl9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942257799701:android:29ddd19da0c4b5df76441c",
+        "android_client_info": {
+          "package_name": "pl.wypozyczalniaurz.urzerv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942257799701-m4crk9htmru6t3peb2mhf02f88s47adr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pl.wypozyczalniaurz.urzerv2",
+            "certificate_hash": "8e5fb05fd72448046f6db4ea566dfa204adb2608"
+          }
+        },
+        {
+          "client_id": "942257799701-8emneevsi76gf9u38loi1dt1kvhm9sl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQKalIghxjtEmfk-w9IMlD7uZOpdlAspY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942257799701-8emneevsi76gf9u38loi1dt1kvhm9sl9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
